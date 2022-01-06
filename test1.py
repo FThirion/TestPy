@@ -7,10 +7,3 @@ repdate2='07/01/2021'
 
 print(repdate)
 
-c=4
-d=7
-
-
-e=c+d
-
-z=e+d
